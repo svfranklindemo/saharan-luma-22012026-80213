@@ -1,3 +1,7 @@
 User-agent: *
 Allow: /
-Sitemap: https://main--saharan-luma-22012026-80213--svfranklindemo.aem.page/sitemap.xml
+Sitemap: https://main--saharan-luma-22012026-80213--svfranklindemo.aem.page/en/sitemap.xml
+Sitemap: https://main--saharan-luma-22012026-80213--svfranklindemo.aem.page/fr/sitemap.xml
+Sitemap: https://main--saharan-luma-22012026-80213--svfranklindemo.aem.page/es/sitemap.xml
+Sitemap: https://main--saharan-luma-22012026-80213--svfranklindemo.aem.page/de/sitemap.xml
+Sitemap: https://main--saharan-luma-22012026-80213--svfranklindemo.aem.page/ja/sitemap.xml
